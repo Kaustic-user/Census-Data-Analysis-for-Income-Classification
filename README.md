@@ -13,4 +13,14 @@ The primary
  Machines (SVM), Naive Bayes, Multi-Layer Perceptron (MLP) and Ensemble Methods, we construct and evaluate
  predictive models. 
 
+ |        | Precision | Recall | F1-score | Support |
+|--------|-----------|--------|----------|---------|
+| Class 0 | 0.85      | 0.93   | 0.89     | 4485    |
+| Class 1 | 0.71      | 0.51   | 0.59     | 1543    |
+| Macro Avg | 0.78    | 0.72   | 0.74     | 6028    |
+| Weighted Avg | 0.81 | 0.82   | 0.81     | 6028    |
+
+Training accuracy: 0.8297, Testing accuracy: 0.8215
+
+
 
