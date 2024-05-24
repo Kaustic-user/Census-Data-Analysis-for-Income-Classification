@@ -13,6 +13,8 @@ The primary
  Machines (SVM), Naive Bayes, Multi-Layer Perceptron (MLP) and Ensemble Methods, we construct and evaluate
  predictive models. 
 
+# TABLE I: SVM: Classification Report
+
  |        | Precision | Recall | F1-score | Support |
 |--------|-----------|--------|----------|---------|
 | Class 0 | 0.85      | 0.93   | 0.89     | 4485    |
