@@ -9,6 +9,6 @@ The primary
 
  Through meticulous
  data preprocessing, feature selection, and employing various
- classification algorithms, including decision trees, support vector
- machines, and ensemble methods, we construct and evaluate
+ classification algorithms, including Gradient Boosted Decision Trees (GBDT), Support Vector
+ Machines (SVM), and Ensemble Methods, we construct and evaluate
  predictive models. 
