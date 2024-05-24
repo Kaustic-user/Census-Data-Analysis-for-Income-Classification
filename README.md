@@ -24,5 +24,16 @@ The primary
 
 Training accuracy: 0.8297, Testing accuracy: 0.8215
 
+# TABLE II: ANN: Classification Report
+|             | Precision | Recall | F1-score | Support |
+|-------------|-----------|--------|----------|---------|
+| Class 0     | 0.86      | 0.91   | 0.89     | 4485    |
+| Class 1     | 0.69      | 0.59   | 0.63     | 1543    |
+| Macro Avg   | 0.78      | 0.75   | 0.76     | 6028    |
+| Weighted Avg| 0.82      | 0.83   | 0.82     | 6028    |
+
+Training accuracy: 0.8336, Testing accuracy: 0.8254
+
+
 
 
